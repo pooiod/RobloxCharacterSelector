@@ -3,5 +3,5 @@ A firefox extension that opens a window with a simple ui to select from one of y
 
 > Download the firefox extension [here](https://addons.mozilla.org/en-US/firefox/addon/roblox-character-chooser)!
 
-![Screenshot 1](https://github.com/user-attachments/assets/a9a8f0a1-0a73-4f79-88ed-3808d1de0f3d)
-Image made by [ch](https://github.com/chIsNotAvailable)
+![image](https://github.com/user-attachments/assets/4f4f948a-bb70-439c-b1e2-4a77235eda66)
+<sub>- Image made by [ch](https://github.com/chIsNotAvailable)</sub>
